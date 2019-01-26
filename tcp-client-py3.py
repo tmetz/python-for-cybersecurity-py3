@@ -1,3 +1,12 @@
+###########################################################
+#
+# tcp-client-py3.py
+# Modified version of "TCP Client" p. 10 Black Hat Python
+# Updated to Python 3
+# Created: 25 Jan 2019
+#
+###########################################################
+
 import socket
 
 target_host = "www.google.com"
